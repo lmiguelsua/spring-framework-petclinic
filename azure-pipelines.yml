@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'ee1a3f22-5f2a-401d-bce0-5cf410ea6dc5'
 
   # Web app name
-  webAppName: 'challengeappservice'
+  webAppName: 'my-app-pet'
 
   # Environment name
-  environmentName: 'challengeappservice'
+  environmentName: 'my-app-pet'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
